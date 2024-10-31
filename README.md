@@ -6,9 +6,10 @@
 - **Graphics tools:** Figma, Photoshop  
 - **AI graphics:** [flux-RealismLora](https://huggingface.co/XLabs-AI/flux-RealismLora)
 
-Explore the interactive [Tableau dashboard](#) here. Each section of the main dashboard is clickable—feel free to explore it. It works like an interactive PowerPoint presentation.
+Explore the interactive [Tableau dashboard](https://public.tableau.com/views/CarTheftAnalysisofGisborneNewZealand2021-2022/main?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) here. Each section of the main dashboard is clickable—feel free to explore it. It works like an interactive PowerPoint presentation.
 
-![Tableau screenshot](#)
+![Main dashboard](https://github.com/user-attachments/assets/6d908115-9e24-4bae-a1ae-af4b2e4ae35b)
+
 
 ---
 
@@ -76,5 +77,5 @@ After collecting new data, a comparative analysis should be conducted to inform 
 ---
 
 **Relevant Links:**
-- [Interactive Tableau Dashboard](#)
+- [Interactive Tableau Dashboard](https://public.tableau.com/views/CarTheftAnalysisofGisborneNewZealand2021-2022/main?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 - [AI Graphics: flux-RealismLora](https://huggingface.co/XLabs-AI/flux-RealismLora)
