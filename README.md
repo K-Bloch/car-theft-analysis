@@ -8,8 +8,7 @@
 
 Explore the interactive [Tableau dashboard](https://public.tableau.com/views/CarTheftAnalysisofGisborneNewZealand2021-2022/main?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) here. Each section of the main dashboard is clickable—feel free to explore it. It works like an interactive PowerPoint presentation.
 
-![Main dashboard](https://github.com/user-attachments/assets/6d908115-9e24-4bae-a1ae-af4b2e4ae35b)
-
+<img src="screenshots/01_main_dashboard.png" alt="Main dashboard" width="70%" height="70%">   
 
 ---
 
