@@ -1,7 +1,7 @@
 # Car Theft Analysis in Gisborne, New Zealand (2021-2022)
 
 ## Data Sources & Tools
-- **Data source:** Maven Analytics, Motor Vehicle Thefts
+- **Data source:** Maven Analytics - Motor Vehicle Thefts
 - **Data tools:** MySQL Workbench 8.0 CE, Tableau  
 - **Graphics tools:** Figma, Photoshop  
 - **AI graphics:** [flux-RealismLora](https://huggingface.co/XLabs-AI/flux-RealismLora)
